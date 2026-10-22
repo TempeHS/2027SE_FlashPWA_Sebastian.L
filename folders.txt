@@ -1,2 +1,7 @@
-.devcontainer
-.github.vscode
+database
+working_documents
+static/css
+static/icons
+static/images
+static/js
+templates
